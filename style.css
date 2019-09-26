@@ -57,8 +57,9 @@ h2 {
 .blockP2 {
   background-color: black;
   opacity: 0.8;
-  padding: 2.5%;
+  padding: 0.5%;
   width: auto;
+  height: 10%;
   /*   width:50%; */
   margin-right: auto;
   margin-left: auto;
@@ -163,7 +164,7 @@ p {
   padding-bottom: 3%;
 }
 .me {
-  height: 84%;
+  height: 90%;
   width: 45%;
   padding: 1.5%;
   display: block;
