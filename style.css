@@ -172,6 +172,11 @@ p {
 #linkedinIcon {
   color: #0077b5;
 }
+
+#folderIcon {
+  color: #ffd988;
+}
+
 .slide {
   min-width: 750px;
   min-height: 550px;
