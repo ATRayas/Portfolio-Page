@@ -161,9 +161,21 @@ h2 {
 
 .btn-default {
   background-color: black;
-  border-color: black;
+  border-color: white;
   color: #ffdea7;
   font-size: 150%;
+}
+
+.btn-default .githubIcon {
+  color: #ffffff;
+}
+
+.btn-default:hover .githubIcon {
+  color: black;
+}
+
+.btn-default:hover .folderIcon {
+  color: black;
 }
 
 .backDrop {
@@ -200,7 +212,7 @@ p {
 .paddingBTN {
   position: relative;
   top: 33px;
-  left: 25px;
+  right: 10px;
 }
 
 .pBtnTop {
@@ -235,17 +247,16 @@ p {
   border-radius: 25%;
 }
 
-#facebookIcon {
+.facebookIcon {
   color: #3b5998;
 }
-#githubIcon {
+.githubIcon {
   color: #ffffff;
 }
-#linkedinIcon {
+.linkedinIcon {
   color: #0077b5;
 }
-
-#folderIcon {
+.folderIcon {
   color: #ffd988;
 }
 
