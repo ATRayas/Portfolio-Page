@@ -225,9 +225,10 @@ h2 {
 }
 
 .backDrop {
-  background: url("https://www.androidcentral.com/sites/androidcentral.com/files/styles/xlarge/public/article_images/2018/04/jerry-hildenbrand-keyone-wallpaper.jpg?itok=OLay3je-");
-  background-repeat: repeat;
+  background: url("https://get.wallhere.com/photo/stars-sky-black-blurred-simple-background-gradient-brush-calm-simple-986676.jpg");
+  /* background-repeat: repeat; */
   background-attachment: fixed;
+  background-size: cover;
   background-position: center;
 }
 .pageOne {
