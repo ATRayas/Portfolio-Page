@@ -232,7 +232,8 @@ p {
 }
 .paddingTopContact {
   padding-top: 5%;
-  margin-top: 2%;
+  margin-top: 0%;
+  margin-bottom: 2%
 }
 .paddingBottom {
   padding-bottom: 3%;
