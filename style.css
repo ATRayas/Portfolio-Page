@@ -34,7 +34,7 @@ nav {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  min-height: 8vh;
+  min-height: 3vh;
   background-color: rgba(17, 17, 17, 0.9);
   border-bottom: 6px solid maroon;
   width: 100%;
