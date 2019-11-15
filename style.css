@@ -190,10 +190,6 @@ h4 {
   background-color: #ffffff;
 }
 
-.btn-default .githubIcon {
-  color: #ffffff;
-}
-
 .btn-default:hover .githubIcon {
   color: black;
 }
